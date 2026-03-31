@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <!-- Hero -->
+  <section class="hero">
+    <h1>Joshua Labasbas</h1>
+    <p>CS @ UF → Firmware @ Tesla. </p>
+    <div class="links">
+      <a href="https://github.com/hoshbosh">GitHub</a>
+      <a href="www.linkedin.com/in/joshua-labasbas">LinkedIn</a>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="about">
+    {{ .Content }}  <!-- written in _index.md below the front matter -->
+  </section>
+
+  <!-- Projects -->
+  <!-- <section class="projects"> -->
+  <!--   {{ range where .Site.Pages "Section" "projects" }} -->
+  <!--     <div class="project-card"> -->
+  <!--       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> -->
+  <!--       <p>{{ .Params.summary }}</p> -->
+  <!--       <div class="tags">{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</div> -->
+  <!--     </div> -->
+  <!--   {{ end }} -->
+  <!-- </section> -->
+{{ end }}

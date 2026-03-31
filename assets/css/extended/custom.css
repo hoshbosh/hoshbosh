@@ -1,0 +1,13 @@
+.post-content ul ul,
+.post-content ol ol,
+.post-content ul ol,
+.post-content ol ul{
+  margin-left: 1.5em;
+}
+.about ul ul,
+.about ol ol,
+.about ul ol,
+.about ol ul{
+  margin-left: 1.5em;
+}
+

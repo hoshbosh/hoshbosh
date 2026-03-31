@@ -1,0 +1,17 @@
+baseURL: "https://yourdomain.com/"
+languageCode: "en-us"
+title: "Joshua Labasbas"
+theme: "PaperMod"
+
+params:
+  author: "Joshua Labasbas"
+  description: "CS, ML, gamedev"
+
+menu:
+  main:
+    # - name: "Projects"
+    #   url: "/#projects"
+    #   weight: 1
+    - name: "Blog"
+      url: "/blog/"
+      weight: 1
