@@ -6,6 +6,7 @@ theme: "PaperMod"
 params:
   author: "Joshua Labasbas"
   description: "CS, ML, gamedev"
+  hideFooter: true
 
 menu:
   main:
