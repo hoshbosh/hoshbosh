@@ -2,10 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cloudstep Devlog on Joshua Labasbas</title>
-    <link>http://localhost:1313/blog/cloudstep-devlog/</link>
+    <link>https://hoshbosh.dev/blog/cloudstep-devlog/</link>
     <description>Recent content in Cloudstep Devlog on Joshua Labasbas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/blog/cloudstep-devlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hoshbosh.dev/blog/cloudstep-devlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudstep Introduction</title>
+      <link>https://hoshbosh.dev/blog/cloudstep-devlog/cloud_step_intro/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://hoshbosh.dev/blog/cloudstep-devlog/cloud_step_intro/</guid>
+      <description>&lt;h2 id=&#34;the-inception&#34;&gt;The Inception&lt;/h2&gt;
+&lt;p&gt;Cloudstep was founded by Lei Ogerio and myself, we are roommates from college at UF. Lei introduced me to fighting games
+with Guilty Gear Strive, and from here I was completely captured by the genre, I was trying all sorts of different
+games like Street Fighter 6, Granblue Fantasy Versus Rising, or Melty Blood Actress Again Current Code. I became
+obsessed with these games, the FGC, and the techniques, and Lei was by my side through all of it.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
