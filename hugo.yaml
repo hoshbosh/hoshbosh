@@ -7,12 +7,14 @@ params:
   author: "Joshua Labasbas"
   description: "CS, ML, gamedev"
   hideFooter: true
+  socialIcons:
+    - name: github
+      url: https://github.com/hoshbosh
+    - name: linkedin
+      url: www.linkedin.com/in/joshua-labasbas
 
 menu:
   main:
-    # - name: "Projects"
-    #   url: "/#projects"
-    #   weight: 1
     - name: "Blog"
       url: "/blog/"
       weight: 1
