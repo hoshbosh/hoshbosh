@@ -6,8 +6,15 @@
     <description>Recent content on Joshua Labasbas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Brain Stimulation Intro</title>
+      <link>http://localhost:1313/blog/machine-learning/ml-temp/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/machine-learning/ml-temp/</guid>
+      <description>Introducting Deep Brain Stimulation(DBS)</description>
+    </item>
     <item>
       <title>Cloudstep Introduction</title>
       <link>http://localhost:1313/blog/cloudstep-devlog/cloud_step_intro/</link>
@@ -18,13 +25,6 @@
 with Guilty Gear Strive, and from here I was completely captured by the genre, I was trying all sorts of different
 games like Street Fighter 6, Granblue Fantasy Versus Rising, or Melty Blood Actress Again Current Code. I became
 obsessed with these games, the FGC, and the techniques, and Lei was by my side through all of it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deep Brain Stimulation Intro</title>
-      <link>http://localhost:1313/blog/machine-learning/ml-temp/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/machine-learning/ml-temp/</guid>
-      <description>Introducting Deep Brain Stimulation(DBS)</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Deep Brain Stimulation Intro"
-date: 2026-03-31
+date: 2026-04-02
 description: "Introducting Deep Brain Stimulation(DBS)"
 draft: false
 ---
@@ -11,7 +11,7 @@ young children receiving operations to better understand their procedure to maki
 
 I joined the DTE in the fall of 2024, first on a team called Design Suture Pads, which was a team designing synthetic 
 skin to be used as a teaching tool for medical students. However, a team that truly piqued my interest was called Deep
-Brain Stimulation, lead by Hannah Kennedy. I applied to switch to this team and joined them in the spring of 2025.
+Brain Stimulation, lead by Hannah Kennedy in collaboration with the Norman Fixel Institute. I applied to switch to this team and joined them in the spring of 2025.
 
 # Deep Brain Stimulation
 Deep Brain Stimulation(DBS) is a procedure for treating symptoms of Parkinson's, by using leads in specific places of the 
