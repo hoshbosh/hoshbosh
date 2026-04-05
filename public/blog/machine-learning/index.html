@@ -122,6 +122,20 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">Model Architecture
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Basis The architecture we are using is outlined in this paper. Originally, we were planning on using a GAN-based model. But, as outlined in the paper, diffusion-based models have proven to be more clinically relevant.
+Brownian Bridge Diffusion Model Diffusion consists of two processes, the forward and backwards processes. The forward process consists of applying noise and gradually destroying information of the image, and the backwards process is the removal of noise from an image until our synthetic image is all that remains. So when we want to perform an inference, we give the model pure noise and it does denoising until an image is present. This video does a fantastic job of understanding this process. Specifically, we use a conditional diffusion model, meaning that we give it a starting point, the model applies noise, then denoises; in contrast to just denoising from pure noise. Information about denoising is traditionally learned using a U-net backbone.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-04 00:00:00 +0000 UTC'>April 4, 2026</span>&nbsp;·&nbsp;<span>Joshua Labasbas</span></footer>
+  <a class="entry-link" aria-label="post link to Model Architecture" href="http://localhost:1313/blog/machine-learning/technical-arch/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">Deep Brain Stimulation Intro
     </h2>
   </header>
