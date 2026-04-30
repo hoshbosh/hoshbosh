@@ -30,4 +30,3 @@ cross-attention is called Style Key Conditioning(SKC) in the paper. In addition 
 so that inter-slice structures are consistent. Then it performs a correction by calling another inference, since this is a sampling technique, it only
 applies to inference-time, there are no training trade offs that need to be made here.
 
-
