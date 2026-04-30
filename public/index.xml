@@ -6,8 +6,15 @@
     <description>Recent content on Joshua Labasbas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudstep Engine Architecture</title>
+      <link>http://localhost:1313/blog/cloudstep-devlog/engine-architecture/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cloudstep-devlog/engine-architecture/</guid>
+      <description>&lt;h1 id=&#34;entity-component-system-architecture&#34;&gt;Entity Component System Architecture&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Model Architecture</title>
       <link>http://localhost:1313/blog/machine-learning/technical-arch/</link>
